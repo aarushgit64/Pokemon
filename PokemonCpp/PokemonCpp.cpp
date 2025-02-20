@@ -112,15 +112,28 @@ void gameLoop(Player& player) {
     }
 }
 
+
+
+// Assuming classes like ProfessorOak, Player, Game exist
+
 int main() {
-    ProfessorOak professor("Professor Oak");
-    Player player;
-    professor.greetPlayer(player);
-    professor.offerPokemonChoices(player);
-    professor.explainMainQuest(player);
-    gameLoop(player);
+    // Create objects dynamically using new
+    ProfessorOak* professor = new ProfessorOak("Professor Oak");
+    Player* player = new Player("Ash");
+    Game* game = new Game();
+
+    // Access methods using pointer notation
+    professor->greetPlayer(*player);
+    game->startGame();
+
+    // Free memory after use
+    delete professor;
+    delete player;
+    delete game;
+
     return 0;
 }
+
 
 
 
