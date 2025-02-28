@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{792F4669-CAE2-4007-8283-2B5D56682E66}|PokemonCpp.vcxproj|C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\PokemonCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{792F4669-CAE2-4007-8283-2B5D56682E66}|PokemonCpp.vcxproj|solutionrelative:PokemonCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pokemon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Game.hpp",
+              "RelativeDocumentMoniker": "Game.hpp",
+              "ToolTip": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Game.hpp",
+              "RelativeToolTip": "Game.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T07:54:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T07:54:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.hpp",
+              "RelativeDocumentMoniker": "Player.hpp",
+              "ToolTip": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Player.hpp",
+              "RelativeToolTip": "Player.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T07:53:45.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.hpp",
+              "DocumentMoniker": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Pokemon.hpp",
+              "RelativeDocumentMoniker": "Pokemon.hpp",
+              "ToolTip": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\Pokemon.hpp",
+              "RelativeToolTip": "Pokemon.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T07:51:56.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonCpp.cpp",
+              "DocumentMoniker": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\PokemonCpp.cpp",
+              "RelativeDocumentMoniker": "PokemonCpp.cpp",
+              "ToolTip": "C:\\Users\\games\\Documents\\GitHub\\Pokemon\\PokemonCpp\\PokemonCpp.cpp",
+              "RelativeToolTip": "PokemonCpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T08:35:58.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

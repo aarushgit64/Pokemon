@@ -1,0 +1,15 @@
+﻿  PokemonCpp.cpp
+C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(8,18): error C2665: 'Player::Player': no overloaded function could convert all the argument types
+      C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\Player.hpp(13,5):
+      could be 'Player::Player(const std::string &,Pokemon *)'
+          C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(8,18):
+          'Player::Player(const std::string &,Pokemon *)': cannot convert argument 2 from 'Pokemon' to 'Pokemon *'
+              C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(8,33):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(8,18):
+      while trying to match the argument list '(const char [4], Pokemon)'
+  
+C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(9,5): error C2065: 'Game': undeclared identifier
+C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(9,10): error C2146: syntax error: missing ';' before identifier 'game'
+C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(9,10): error C2065: 'game': undeclared identifier
+C:\Users\games\Documents\GitHub\Pokemon\PokemonCpp\PokemonCpp.cpp(14,5): error C2065: 'game': undeclared identifier
